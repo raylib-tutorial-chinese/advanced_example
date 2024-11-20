@@ -1,4 +1,6 @@
-﻿官网  
+﻿作者：[找不到服务器](https://github.com/xd15zhn)
+
+官网  
 <https://www.raylib.com/>  
 <https://github.com/raysan5/raylib>  
 我根据自己的需求裁剪了多余功能后的代码：  
